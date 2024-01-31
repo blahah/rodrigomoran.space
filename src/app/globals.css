@@ -24,8 +24,17 @@ body {
       rgb(var(--background-end-rgb))
     )
     rgb(var(--background-start-rgb));
-  font-family: monospace;
 }
+
+/* Image cards
+
+On a device where the pointer can hover,
+only show the caption on hover.
+
+On a device without hovering (like a phone),
+always show the caption.
+
+*/
 
 .image-card .image-caption {
   visibility: hidden;
@@ -33,6 +42,12 @@ body {
 
 .image-card:hover .image-caption {
   visibility: visible;
+}
+
+@media (pointer:coarse) {
+  .image-card .image-caption {
+    visibility: visible;
+  }
 }
 
 @layer utilities {

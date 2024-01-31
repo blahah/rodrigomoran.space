@@ -1,8 +1,11 @@
-import { Inter } from "next/font/google";
+import localFont from "next/font/local";
 import "./globals.css";
 import { Navbar } from "@/components/navbar";
 
-const inter = Inter({ subsets: ["latin"] });
+// const font = localFont({ src: './BergenMono-Regular.woff2' });
+// const font = localFont({ src: './ArkibalMono-Regular.ttf' });
+const font = localFont({ src: './Meltmino-Regular.ttf' });
+// const font = localFont({ src: './Feldiora.otf' });
 
 export const metadata = {
   title: "rodrigomoran.space",
@@ -12,7 +15,7 @@ export const metadata = {
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
-      <body className={inter.className}>
+      <body className={font.className}>
         <Navbar />
         {children}
       </body>
