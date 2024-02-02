@@ -1,0 +1,1 @@
+self.__NEXT_FONT_MANIFEST='{"pages":{},"app":{"/home/rik/c/rodrigomoran.space/rodrigomoran.space/src/app/layout":["static/media/bbb4a64c89ecffc9-s.p.ttf"]},"appUsingSizeAdjust":true,"pagesUsingSizeAdjust":false}';

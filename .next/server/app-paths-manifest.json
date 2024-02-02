@@ -1,0 +1,15 @@
+{
+  "/_not-found": "app/_not-found.js",
+  "/about/page": "app/about/page.js",
+  "/contact/page": "app/contact/page.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/page": "app/page.js",
+  "/work/2017_interactions/page": "app/work/2017_interactions/page.js",
+  "/work/2018_meaning_of_life/page": "app/work/2018_meaning_of_life/page.js",
+  "/work/2018_underground_screens/page": "app/work/2018_underground_screens/page.js",
+  "/work/2022_dance_of_the_elements/page": "app/work/2022_dance_of_the_elements/page.js",
+  "/work/2022_shadow_work/page": "app/work/2022_shadow_work/page.js",
+  "/work/2022_vector_infinito/page": "app/work/2022_vector_infinito/page.js",
+  "/work/2023_echoes_of_time/page": "app/work/2023_echoes_of_time/page.js",
+  "/work/2023_harmonic_pulse/page": "app/work/2023_harmonic_pulse/page.js"
+}

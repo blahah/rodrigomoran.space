@@ -1,0 +1,112 @@
+{
+  "pages": {
+    "/_not-found": [
+      "static/chunks/webpack-172cd7ed24797af6.js",
+      "static/chunks/fd9d1056-3a6cec102785e139.js",
+      "static/chunks/69-1308051f6cbb3a81.js",
+      "static/chunks/main-app-f76211ed0f2d483f.js",
+      "static/chunks/app/_not-found-ce4b4601ad0a2f25.js"
+    ],
+    "/layout": [
+      "static/chunks/webpack-172cd7ed24797af6.js",
+      "static/chunks/fd9d1056-3a6cec102785e139.js",
+      "static/chunks/69-1308051f6cbb3a81.js",
+      "static/chunks/main-app-f76211ed0f2d483f.js",
+      "static/css/08c595cc3eb97def.css",
+      "static/chunks/app/layout-54b2f6a6a103caa9.js"
+    ],
+    "/about/page": [
+      "static/chunks/webpack-172cd7ed24797af6.js",
+      "static/chunks/fd9d1056-3a6cec102785e139.js",
+      "static/chunks/69-1308051f6cbb3a81.js",
+      "static/chunks/main-app-f76211ed0f2d483f.js",
+      "static/chunks/app/about/page-e50716f640a6dcd5.js"
+    ],
+    "/contact/page": [
+      "static/chunks/webpack-172cd7ed24797af6.js",
+      "static/chunks/fd9d1056-3a6cec102785e139.js",
+      "static/chunks/69-1308051f6cbb3a81.js",
+      "static/chunks/main-app-f76211ed0f2d483f.js",
+      "static/chunks/250-4ee7c44f23d86d13.js",
+      "static/chunks/app/contact/page-b98b1b542007f56e.js"
+    ],
+    "/page": [
+      "static/chunks/webpack-172cd7ed24797af6.js",
+      "static/chunks/fd9d1056-3a6cec102785e139.js",
+      "static/chunks/69-1308051f6cbb3a81.js",
+      "static/chunks/main-app-f76211ed0f2d483f.js",
+      "static/chunks/app/page-5edfa39080c55701.js"
+    ],
+    "/work/2017_interactions/page": [
+      "static/chunks/webpack-172cd7ed24797af6.js",
+      "static/chunks/fd9d1056-3a6cec102785e139.js",
+      "static/chunks/69-1308051f6cbb3a81.js",
+      "static/chunks/main-app-f76211ed0f2d483f.js",
+      "static/chunks/786-6f0976c5a25adc45.js",
+      "static/css/a6b3ba627897827e.css",
+      "static/chunks/app/work/2017_interactions/page-3c596b564ad88901.js"
+    ],
+    "/work/2018_meaning_of_life/page": [
+      "static/chunks/webpack-172cd7ed24797af6.js",
+      "static/chunks/fd9d1056-3a6cec102785e139.js",
+      "static/chunks/69-1308051f6cbb3a81.js",
+      "static/chunks/main-app-f76211ed0f2d483f.js",
+      "static/chunks/786-6f0976c5a25adc45.js",
+      "static/css/a6b3ba627897827e.css",
+      "static/chunks/app/work/2018_meaning_of_life/page-7b48f72ad5ca8c26.js"
+    ],
+    "/work/2018_underground_screens/page": [
+      "static/chunks/webpack-172cd7ed24797af6.js",
+      "static/chunks/fd9d1056-3a6cec102785e139.js",
+      "static/chunks/69-1308051f6cbb3a81.js",
+      "static/chunks/main-app-f76211ed0f2d483f.js",
+      "static/css/a6b3ba627897827e.css",
+      "static/chunks/app/work/2018_underground_screens/page-1a9c9178a8b15055.js"
+    ],
+    "/work/2022_dance_of_the_elements/page": [
+      "static/chunks/webpack-172cd7ed24797af6.js",
+      "static/chunks/fd9d1056-3a6cec102785e139.js",
+      "static/chunks/69-1308051f6cbb3a81.js",
+      "static/chunks/main-app-f76211ed0f2d483f.js",
+      "static/chunks/786-6f0976c5a25adc45.js",
+      "static/css/a6b3ba627897827e.css",
+      "static/chunks/app/work/2022_dance_of_the_elements/page-53ba1643df767a40.js"
+    ],
+    "/work/2022_shadow_work/page": [
+      "static/chunks/webpack-172cd7ed24797af6.js",
+      "static/chunks/fd9d1056-3a6cec102785e139.js",
+      "static/chunks/69-1308051f6cbb3a81.js",
+      "static/chunks/main-app-f76211ed0f2d483f.js",
+      "static/chunks/786-6f0976c5a25adc45.js",
+      "static/css/a6b3ba627897827e.css",
+      "static/chunks/app/work/2022_shadow_work/page-16c68429f90d3289.js"
+    ],
+    "/work/2022_vector_infinito/page": [
+      "static/chunks/webpack-172cd7ed24797af6.js",
+      "static/chunks/fd9d1056-3a6cec102785e139.js",
+      "static/chunks/69-1308051f6cbb3a81.js",
+      "static/chunks/main-app-f76211ed0f2d483f.js",
+      "static/chunks/786-6f0976c5a25adc45.js",
+      "static/css/a6b3ba627897827e.css",
+      "static/chunks/app/work/2022_vector_infinito/page-89831db513f3edf0.js"
+    ],
+    "/work/2023_echoes_of_time/page": [
+      "static/chunks/webpack-172cd7ed24797af6.js",
+      "static/chunks/fd9d1056-3a6cec102785e139.js",
+      "static/chunks/69-1308051f6cbb3a81.js",
+      "static/chunks/main-app-f76211ed0f2d483f.js",
+      "static/chunks/786-6f0976c5a25adc45.js",
+      "static/css/a6b3ba627897827e.css",
+      "static/chunks/app/work/2023_echoes_of_time/page-1622bb4aa70bb8ff.js"
+    ],
+    "/work/2023_harmonic_pulse/page": [
+      "static/chunks/webpack-172cd7ed24797af6.js",
+      "static/chunks/fd9d1056-3a6cec102785e139.js",
+      "static/chunks/69-1308051f6cbb3a81.js",
+      "static/chunks/main-app-f76211ed0f2d483f.js",
+      "static/chunks/786-6f0976c5a25adc45.js",
+      "static/css/a6b3ba627897827e.css",
+      "static/chunks/app/work/2023_harmonic_pulse/page-1f5bb7ac2b139657.js"
+    ]
+  }
+}
