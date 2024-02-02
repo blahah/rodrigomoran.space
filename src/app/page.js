@@ -9,14 +9,29 @@ export default function Home() {
   return (
     <div className="flex flex-wrap flex-col md:flex-row lg:flex-row w-full">
       <ImageCard
-        imgUrl="/work/2021_organic_light_vector/title.jpg"
-        linkUrl="/work/2021_organic_light_vector"
-        caption="_ORGANIC LIGHT VECTOR [2021]"
+        imgUrl="/work/2023_echoes_of_time/title.jpg"
+        linkUrl="/work/2023_echoes_of_time"
+        caption="_ECHOES OF TIME [2023]"
       />
       <ImageCard
-        imgUrl="/work/2020_soil_and_water/title.jpg"
-        linkUrl="/work/2020_soil_and_water"
-        caption="_SOIL_AND_WATER [2020]"
+        imgUrl="/work/2023_harmonic_pulse/title.jpg"
+        linkUrl="/work/2023_harmonic_pulse"
+        caption="_HARMONIC PULSE [2023]"
+      />
+      <ImageCard
+        imgUrl="/work/2022_shadow_work/title.jpg"
+        linkUrl="/work/2022_shadow_work"
+        caption="_SHADOW WORK [2022]"
+      />
+      <ImageCard
+        imgUrl="/work/2022_vector_infinito/title.jpg"
+        linkUrl="/work/2022_vector_infinito"
+        caption="_VECTOR INFINITO [2022]"
+      />
+      <ImageCard
+        imgUrl="/work/2022_dance_of_the_elements/title.jpg"
+        linkUrl="/work/2022_dance_of_the_elements"
+        caption="_DANCE OF THE ELEMENTS [2022]"
       />
       <ImageCard
         imgUrl="/work/2018_underground_screens/title.jpg"
