@@ -3,7 +3,7 @@ export const ProjectHero = ({ title, description, year }) => {
     ? description
     : description.split("\n\n")
   const descSection = descParts
-    .map(part => <p className={`pb-2 text-sm font-sans`}>{part}</p>)
+    .map((part, i) => <p className={`pb-2 text-sm font-sans`} key={i}>{part}</p>)
   return (
     <div className="w-full p-6 flex md:flex-row flex-col">
       <div className="w-full md:w-50%">
