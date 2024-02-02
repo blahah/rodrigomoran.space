@@ -7,17 +7,34 @@ export default function Home() {
   const router = useRouter()
 
   return (
-    <div className="flex flex-col md:flex-row lg:flex-row">
+    <div className="flex flex-wrap flex-col md:flex-row lg:flex-row w-full">
       <ImageCard
-        imgUrl="https://rodrigomoran.space/wp-content/uploads/2021/02/IMG_6219-768x512.jpg"
-        linkUrl="/project-1"
-        caption="_PROJECT X15"
+        imgUrl="/work/2021_organic_light_vector/title.jpg"
+        linkUrl="/work/2021_organic_light_vector"
+        caption="_ORGANIC LIGHT VECTOR [2021]"
       />
       <ImageCard
-        imgUrl="https://rodrigomoran.space/wp-content/uploads/2021/02/visuals-768x452.jpg"
-        linkUrl="/project-2"
-        caption="_PROJECT zb113"
+        imgUrl="/work/2020_soil_and_water/title.jpg"
+        linkUrl="/work/2020_soil_and_water"
+        caption="_SOIL_AND_WATER [2020]"
+      />
+      <ImageCard
+        imgUrl="/work/2018_underground_screens/title.jpg"
+        linkUrl="/work/2018_underground_screens"
+        caption="_UNDERGROUND_SCREENS [2018]"
+      />
+      <ImageCard
+        imgUrl="/work/2018_meaning_of_life/title.jpg"
+        linkUrl="/work/2018_meaning_of_life"
+        caption="_MEANING_OF_LIFE [2018]"
+      />
+      <ImageCard
+        imgUrl="/work/2017_interactions/title.jpg"
+        linkUrl="/work/2017_interactions"
+        caption="_INTERACTIONS [2017]"
       />
     </div>
   );
 }
+
+
