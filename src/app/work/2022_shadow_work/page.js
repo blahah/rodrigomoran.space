@@ -25,7 +25,7 @@ export default function Page() {
         year="2022"
       />
       <VideoCard
-        url="https://www.youtube.com/embed/Btv2AaLkFR0?si=5U0gRDa-gL_c-Av1"
+        url="https://richardsmith404.wistia.com/medias/mvgillmh21"
         title="SHADOW WORK"
       />
       <Gallery project={project} n={4}/>

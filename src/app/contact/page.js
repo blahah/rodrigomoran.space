@@ -14,7 +14,7 @@ export default function Page() {
               rmoraniusmoranius8676
             </Link>
           </p>
-          <p className="mb-4">email: ciao@rodrigomoran.space</p>
+          <p className="mb-4">email: info@rodrigomoran.space</p>
         </div>
       </main>
     )

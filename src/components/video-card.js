@@ -1,4 +1,7 @@
-'use client';
+'use client'
+
+import React from 'react'
+import ReactPlayer from 'react-player/lazy'
 
 const containerStyle = {
   width: "100%",
@@ -17,31 +20,9 @@ const iframeStyle = {
 export const VideoCard = ({ url, title }) => {
   if (/youtube/.test(url)) {
     return (
-      <div class="p-6">
+      <div className="px-6 pb-6">
         <div style={containerStyle}>
-          <iframe
-            style={iframeStyle}
-            // width="560"
-            // height="315"
-            src={url}
-            title={title}
-            frameborder="0"
-            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-            allowfullscreen
-          ></iframe>
-        </div>
-      </div>
-    )
-  } else {
-    return (
-      <div class="p-6">
-        <div style={containerStyle}>
-          <iframe
-            style={iframeStyle}
-            allowfullscreen=""
-            title={title}
-            src={url}
-          ></iframe>
+          <ReactPlayer url={url} width="100%" height="100%" style={iframeStyle} controls={false}/>
         </div>
       </div>
     )

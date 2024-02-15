@@ -9,42 +9,42 @@ export default function Home() {
   return (
     <div className="flex flex-wrap flex-col md:flex-row lg:flex-row w-full">
       <ImageCard
-        imgUrl="/work/2023_echoes_of_time/title.jpg"
+        imgUrl="/work/2023_echoes_of_time/title_sm.jpg"
         linkUrl="/work/2023_echoes_of_time"
         caption="_ECHOES OF TIME [2023]"
       />
       <ImageCard
-        imgUrl="/work/2023_harmonic_pulse/title.jpg"
+        imgUrl="/work/2023_harmonic_pulse/title_sm.jpg"
         linkUrl="/work/2023_harmonic_pulse"
         caption="_HARMONIC PULSE [2023]"
       />
       <ImageCard
-        imgUrl="/work/2022_shadow_work/title.jpg"
+        imgUrl="/work/2022_shadow_work/title_sm.jpg"
         linkUrl="/work/2022_shadow_work"
         caption="_SHADOW WORK [2022]"
       />
       <ImageCard
-        imgUrl="/work/2022_vector_infinito/title.jpg"
+        imgUrl="/work/2022_vector_infinito/title_sm.jpg"
         linkUrl="/work/2022_vector_infinito"
         caption="_VECTOR INFINITO [2022]"
       />
       <ImageCard
-        imgUrl="/work/2022_dance_of_the_elements/title.jpg"
+        imgUrl="/work/2022_dance_of_the_elements/title_sm.jpg"
         linkUrl="/work/2022_dance_of_the_elements"
         caption="_DANCE OF THE ELEMENTS [2022]"
       />
       <ImageCard
-        imgUrl="/work/2018_underground_screens/title.jpg"
+        imgUrl="/work/2018_underground_screens/title_sm.jpg"
         linkUrl="/work/2018_underground_screens"
         caption="_UNDERGROUND_SCREENS [2018]"
       />
       <ImageCard
-        imgUrl="/work/2018_meaning_of_life/title.jpg"
+        imgUrl="/work/2018_meaning_of_life/title_sm.jpg"
         linkUrl="/work/2018_meaning_of_life"
         caption="_MEANING_OF_LIFE [2018]"
       />
       <ImageCard
-        imgUrl="/work/2017_interactions/title.jpg"
+        imgUrl="/work/2017_interactions/title_sm.jpg"
         linkUrl="/work/2017_interactions"
         caption="_INTERACTIONS [2017]"
       />
