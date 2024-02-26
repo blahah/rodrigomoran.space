@@ -18,7 +18,7 @@ export default function RootLayout({ children }) {
       <body className={font.className}>
         {/* <Navbar />
         {children} */}
-        <div className="flex w-screen h-screen flex-col place-content-center text-center">This site is being renovated and will be back soon.</div>
+        <div className="flex w-screen h-screen flex-col place-content-center text-center p-4">This site is being renovated and will be back soon.</div>
       </body>
     </html>
   );
